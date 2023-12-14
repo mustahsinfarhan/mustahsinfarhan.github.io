@@ -1,7 +1,7 @@
 # Engineer |  Data Analyst
 
-[![Logo](/assets/icons/in58.png)](https://www.linkedin.com/in/mustahsin-farhan-chowdhury/)    [![Logo](/assets/icons/rgg48.png)](https://www.researchgate.net/profile/Md-Mustahsin-Chowdhury)    [![Logo](/assets/icons/kg48.png)](https://www.kaggle.com/mustahsinfarhan)    [![Logo](/assets/icons/gh48.png)](https://github.com/mustahsin1)    [![Logo](/assets/icons/tb48.png)](https://public.tableau.com/app/profile/mustahsin.farhan/vizzes)
-
+[![Logo](/assets/icons/in48.png)](https://www.linkedin.com/in/mustahsin-farhan-chowdhury/)    [![Logo](/assets/icons/gh48.png)](https://github.com/mustahsin1)    [![Logo](/assets/icons/tb48.png)](https://public.tableau.com/app/profile/mustahsin.farhan/vizzes)
+[![Logo](/assets/icons/rgg48.png)](https://www.researchgate.net/profile/Md-Mustahsin-Chowdhury)    [![Logo](/assets/icons/kg48.png)](https://www.kaggle.com/mustahsinfarhan)    
 ### Education
 - Coursera
 - Coursera
