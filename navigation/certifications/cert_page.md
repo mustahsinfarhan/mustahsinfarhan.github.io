@@ -1,15 +1,15 @@
+[Home](https://mustahsinfarhan.github.io/)
 # Certifications
 ## Data Analytics
-#### Data Analysis with R Programming (December, 2023)
+- Data Analysis with R Programming (December, 2023)
+  **Gained Skills:**  Data Analysis, R (Programming Knowledge), R Markdown
 
-**Gained Skills:**  Data Analysis, R (Programming Knowledge), R Markdown
+  [**Verify Certificate**](https://coursera.org/verify/DDU6TDJDS4AP)
 
-[Verify:](https://coursera.org/verify/DDU6TDJDS4AP)
+- Share Data Through the Art of Visualization (October, 2023)
+  **Gained Skills:**  Data Analysis, Business Communication
 
-#### Share Data Through the Art of Visualization (October, 2023)
-**Gained Skills:**  Data Analysis, Business Communication
-
-[Verify:](https://coursera.org/verify/DDU6TDJDS4AP)
+  [**Verify Certificate**](https://coursera.org/verify/GL8HDPZN94AZ)
 
 - Analyze Data to Answer Questions (October, 2023)
 - Process Data from Dirty to Clean (September, 2023)
@@ -35,4 +35,4 @@
 - The Bits and Bytes of Computer Networking (July, 2020)
 - Technical Support Fundamentals (July, 2020)
 
-
+[Back](https://mustahsinfarhan.github.io/)
