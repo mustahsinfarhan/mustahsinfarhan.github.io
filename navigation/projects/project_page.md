@@ -45,9 +45,13 @@ This soccer bot was created to attend the contest **Mecceleration 2019** organiz
 Testing Different Components |  Test Run After Motor Assembly  | Front Bracket to Catch the Ball | Top View of the Cooling Fan
 
 
-### Battle Bot V.1.0 (May 2019)
+### Battle Bot V.1.0 (April 2019)
+#### Type: Contest (Team Project)
+This battle bot was designed to participate in the contest named **Robolution- 2019** organized by Military Institute of Science and Technology, Dhaka, Bangladesh. The segment had a boxing ring-like arena where contestants fought with their heavy robots. This was our first attempt at building a battle bot. So we chose wedge shapes to avoid using costly active weapons. The frame of the robot was made of iron bar but the body panels consisted of plastic pvc sheets. This was by design as under the panels, thick steel wires were placed. When opponents attack with their active weapons, they get caught on the steel wires, forcing them to forfeit. 
 
 
+![image 1](/assets/img/bb2v1.jpg) |  ![image 1](/assets/img/bb2v2.jpg)  |  ![image 1](/assets/img/bb2v3.jpg)  |  ![image 1](/assets/img/bb2v4.jpg)
+Draft Diagram for the Electric Components |  Steel Wire Wrap on the Frame  | PVC Body Panels | Final Assembly of the Robot
 
 
 
