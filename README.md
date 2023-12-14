@@ -34,6 +34,22 @@ Designed affordable cloud-based patient monitoring system for remote monitoring 
 
 [Details..](/navigation/research/research_page.md)
 
+## Work Experiences
+- **Freelance Data Analyst** (February 2023)
+- **Freelance Video Editor** (April 2020 - September 2021)
+
+
+[Details..](/navigation/experiences/exp_page.md)
+
+
+## Volunteer Experiences
+- **Vice President**, Kuetians of Naogaon Association, KUET (June 2021 - May 2022)
+- **General Secretary**, Manipulators of Electronics Club, KUET (January 2021 - April 2022)
+- **Student Lab Operator**, FabLab, KUET (July 2019 - December 2021)
+- **Level 5 Local Guide**, Google Maps (February 2017 - Present)
+
+[Details..](/navigation/experiences/exp_page.md)
+
 ## Projects
 - project 1
 - project 2
@@ -44,7 +60,7 @@ Designed affordable cloud-based patient monitoring system for remote monitoring 
 - 1
 - -2
 
-### Volunteer Ex
+## Volunteer Ex
 -1
 -2
 
