@@ -1,4 +1,11 @@
-# Data Analysts | Engineer
+# Engineer |  Data Analyst
+
+[Linked in](https://www.linkedin.com/in/mustahsin-farhan-chowdhury/)
+
+![Logo](/assets/icons/in48.png)
+
+[![Logo](/assets/icons/in48.png)](https://www.linkedin.com/in/mustahsin-farhan-chowdhury/)
+
 
 ### Education
 - Coursera
