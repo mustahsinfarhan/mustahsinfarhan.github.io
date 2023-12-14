@@ -2,21 +2,47 @@
 # Certifications
 ## Data Analytics
 - Data Analysis with R Programming (December, 2023)
+  
   **Gained Skills:**  Data Analysis, R (Programming Knowledge), R Markdown
 
   [**Verify Certificate**](https://coursera.org/verify/DDU6TDJDS4AP)
 
 - Share Data Through the Art of Visualization (October, 2023)
-  **Gained Skills:**  Data Analysis, Business Communication
+  
+  **Gained Skills:**  Data Analysis, Business Communication, Presenatation Skills.
 
   [**Verify Certificate**](https://coursera.org/verify/GL8HDPZN94AZ)
 
 - Analyze Data to Answer Questions (October, 2023)
-- Process Data from Dirty to Clean (September, 2023)
-- Prepare Data for Exploration (August, 2023)
-- Ask Questions to Make Data-Driven Decisions (June, 2023)
-- Foundations: Data, Data, Everywhere (February, 2023)
+   
+  **Gained Skills:**  Data Analysis, SQL, Spreadsheets.
 
+  [**Verify Certificate**](https://coursera.org/verify/QBGVHQ6ZUMAT)
+  
+- Process Data from Dirty to Clean (September, 2023)
+ 
+  **Gained Skills:**  Data Analysis, SQL, Spreadsheets, General Statistics.
+
+  [**Verify Certificate**](https://coursera.org/verify/HPBAVFCN7S5X)
+  
+- Prepare Data for Exploration (August, 2023)
+
+  **Gained Skills:**  Data Management.
+
+  [**Verify Certificate**](https://coursera.org/verify/TK3DHY3P7WBR)
+  
+- Ask Questions to Make Data-Driven Decisions (June, 2023)
+  
+  **Gained Skills:**  Business Communication, Data Analysis, Spreadsheets.
+
+  [**Verify Certificate**](https://coursera.org/verify/P3K422FUFB94)
+  
+- Foundations: Data, Data, Everywhere (February, 2023)
+  
+  **Gained Skills:**  Data Analysis, SQL, Data Visualization, Business Analysis.
+
+  [**Verify Certificate**](https://coursera.org/verify/8ZPAQ6PYQGEW)
+  
 #### IT Automation with Python
 - Configuration Management and the Cloud (December, 2022)
 - Troubleshooting and Debugging Techniques (December, 2022)
