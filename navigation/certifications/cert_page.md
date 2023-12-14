@@ -90,9 +90,34 @@
   
 ## IT Support
 - IT Security: Defense against the digital dark arts (September, 2020)
+   
+  **Gained Skills:**  Cybersecurity, Cryptography.
+
+  [**Verify Certificate**](https://coursera.org/verify/YRMUVCFPD7NY)
+  
 - System Administration and IT Infrastructure Services (September, 2020)
+     
+  **Gained Skills:**  Networking, System Administration.
+
+  [**Verify Certificate**](https://coursera.org/verify/JQJWTKLBY4N8)
+  
 - Operating Systems and You: Becoming a Power User (September, 2020)
+       
+  **Gained Skills:**  Operating Systems, Software Management, Process Management.
+
+  [**Verify Certificate**](https://coursera.org/verify/VBTMG75ZWEEP)
+  
 - The Bits and Bytes of Computer Networking (July, 2020)
+        
+  **Gained Skills:**  Networking, Troubleshooting.
+
+  [**Verify Certificate**](https://coursera.org/verify/L8KEDAFA52RU)
+  
 - Technical Support Fundamentals (July, 2020)
+         
+  **Gained Skills:**  Computer Skills, Troubleshooting, Communication.
+
+  [**Verify Certificate**](https://coursera.org/verify/W7VK9MKWHM5R)
+  
 
 [Back](https://mustahsinfarhan.github.io/)
