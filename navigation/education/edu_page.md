@@ -4,13 +4,15 @@
 - Google Data Analytics Professional Certificate (February 2023 – December 2023)
   **Instructor:** Google Career Certificates - Coursera
   **Key Concepts:** Data cleaning, preparation processes, analysis, different data analysis tools such as spreadsheets, SQL, R programming and Tableau dashboard, data visualization, hand-on activities and case studies.
-  [**Certificate:**](https://coursera.org/verify/professional-cert/Y2XL2WKMVRQV) 
+  
+  [**Verify:**](https://coursera.org/verify/professional-cert/Y2XL2WKMVRQV) 
 
   
 - Google IT Automation with Python Professional Certificate (July 2022 – December 2022)
   **Instructor:** Google Career Certificates - Coursera
   **Key Concepts:** IT automation, cloud management, problem-solving utilizing Python scripts, version control using Git, managing IT resources, hands-on activities and case studies.
-  [**Certificate:**](https://coursera.org/verify/professional-cert/5M4XPBDQVSY6)
+  
+  [**Verify**](https://coursera.org/verify/professional-cert/5M4XPBDQVSY6)
 
   
 - B.Sc. in Electronics and Communication Engineering (2017 – 2022)
