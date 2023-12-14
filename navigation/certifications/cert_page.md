@@ -77,8 +77,17 @@
 
 ## Grameenphone Explorers 2.0
 - Grameenphone Explorers 2.0 Program on Communication (September, 2021)
-- Grameenphone Explorers 2.0 Program on Entrepreneurial Mindset (September, 2021)
+  
+  **Gained Skills:**  Communication, Presentation Skills.
 
+  [**Verify Certificate**](/navigation/certifications/gpe2com_cert.pdf)
+  
+- Grameenphone Explorers 2.0 Program on Entrepreneurial Mindset (September, 2021)
+  
+  **Gained Skills:**  Business Communication, Problem Solving, Presentation Skills.
+
+  [**Verify Certificate**](/navigation/certifications/gpe2em_cert.pdf)
+  
 ## IT Support
 - IT Security: Defense against the digital dark arts (September, 2020)
 - System Administration and IT Infrastructure Services (September, 2020)
