@@ -1,4 +1,4 @@
-[Home](https://mustahsinfarhan.github.io/)  |   [Education](/navigation/education/edu_page.md)  |   [Research](/navigation/research/research_page.md)  |   [Experience](/navigation/experiences/exp_page.md)   |  [Certifications](/navigation/certifications/cert_page.md)  |   [Projects](/navigation/projects/project_page.md)  |   [Personal](/navigation/personal/personal_page.md)
+[Home](https://mustahsinfarhan.github.io/) 
 
 # Education
 - Google Data Analytics Professional Certificate (February 2023 – December 2023)
@@ -24,3 +24,6 @@
   **Institute:** Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh
   
   **Key Courses:** Fundamentals of electronics and communication technologies (Solid-state Electronics, Digital Electronics, Microprocessors, VLSI design, Biomedical Engineering etc.), Programming (C, C++), Mathematics Databases, Data structures & Algorithms, Machine learning (Supervised Learning, Reinforcement Learning, etc.) and Internet of things. 
+
+
+[Back](https://mustahsinfarhan.github.io/) 
