@@ -26,8 +26,8 @@
 
 [Details..](/navigation/research/research_page.md)
 
-## Reserach Experience
-- Design and Implementation of IoT based Patient Monitoring System Integrating Cloud Platform
+## Research Experience
+#### Design and Implementation of IoT based Patient Monitoring System Integrating Cloud Platform
 
 Designed affordable cloud-based patient monitoring system for remote monitoring of heart rate and temperature in resource-limited settings which improves accessibility and reduces workload for medical professionals. The thesis was supervised by [Dr. Md. Faruque Hossain](https://www.kuet.ac.bd/ece/fhossain/) and was submitted to fulfill the partial requirement for the BSc. Degree in Electronics and Communication Engineering.
 
@@ -50,6 +50,13 @@ Designed affordable cloud-based patient monitoring system for remote monitoring 
 
 [Details..](/navigation/experiences/exp_page.md)
 
+## Scholarships
+#### Google Career Certificate Scholarship through _Commonwealth of Learning_ (2022 - Present).
+#### Rajshahi Education Board Scholarship for academic excellence in _Higher Secondary School Certificate_ exam, Bangladesh (2017 - 2020).
+#### Rajshahi Education Board Scholarship for academic excellence in _Secondary School Certificate_ exam, Bangladesh (2015 - 2016).
+#### Rajshahi Education Board Scholarship for academic excellence in _Junior School Certificate_ exam, Bangladesh (2013 to 2014).
+
+
 ## Projects
 - project 1
 - project 2
@@ -60,7 +67,5 @@ Designed affordable cloud-based patient monitoring system for remote monitoring 
 - 1
 - -2
 
-## Volunteer Ex
--1
--2
+
 
