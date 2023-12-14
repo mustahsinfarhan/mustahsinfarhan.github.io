@@ -21,6 +21,13 @@ Laser cut motor motor mounts |  Physical structure of the Battle Bot  | Control 
 
 
 ### Human Rescue & Environment Monitoring Bot (October 2019)
+#### Type: Academic (Team Project)
+The objective of this project was to build a rescue robot which can assist in rescue missions as well as monitor the environment for temperature change and detection of toxic gasses. The robot was equipped with multiple sensors, a camera which can use a pan-tilt mechanism to observe different directions, processing equipment and an on-board first aid kit box. The robot has both autonomous and manual control and high visibility led lights to maneuver on different surfaces. The wheels are modified to get a firm grip on the surface and a siren is there to warn anyone if necessary.
+
+![image 1](/assets/img/res1.jpg) |  ![image 1](/assets/img/res2.jpg)  |  ![image 1](/assets/img/res3.jpg)  |  ![image 1](/assets/img/res4.jpg)
+Testing different components |  Added First aid kit box  | Night time testing of the robot | Final test before project submission
+
+A paper was published on this project which all the team members contributed equally. The full-text paper is available on [International Journal of Mechanical Engineering and Robotics Research](https://www.ijmerr.com/index.php?m=content&c=index&a=show&catid=191&id=1577)
 
 ### Soccer Bot V.2.0 (April 2019)
 
