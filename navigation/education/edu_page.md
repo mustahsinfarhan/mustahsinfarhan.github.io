@@ -1,4 +1,4 @@
-[Home](https://mustahsinfarhan.github.io/)     [Education](/navigation/education/edu_page.md)     [Research](/navigation/research/research_page.md)     [Experience](/navigation/experiences/exp_page.md)     [Certifications](/navigation/certifications/cert_page.md)     [Projects](/navigation/projects/project_page.md)     [Personal](/navigation/personal/personal_page.md)
+[Home](https://mustahsinfarhan.github.io/)  |   [Education](/navigation/education/edu_page.md)  |   [Research](/navigation/research/research_page.md)  |   [Experience](/navigation/experiences/exp_page.md)   |  [Certifications](/navigation/certifications/cert_page.md)  |   [Projects](/navigation/projects/project_page.md)  |   [Personal](/navigation/personal/personal_page.md)
 
 # Education
 - Google Data Analytics Professional Certificate (February 2023 – December 2023)
