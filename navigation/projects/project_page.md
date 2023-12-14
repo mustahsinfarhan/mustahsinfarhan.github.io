@@ -5,7 +5,8 @@ In this case study, I analyzed bike-sharing data for one quarter and recommended
 
 **Used Technologies:** Spreadsheets, R (Programming Language), Posit (RStudio) Cloud and R Markdown.
 
-The complete case study with visualizations is available on [Kaggle](https://www.kaggle.com/code/mustahsinfarhan/case-study-how-does-a-bike-share-navigate-speedy).
+The complete case study with visualizations is available on my [Kaggle profile](https://www.kaggle.com/code/mustahsinfarhan/case-study-how-does-a-bike-share-navigate-speedy).
+
 Completion Certificate [Here](https://coursera.org/verify/H4AU99SSRKF4)
 
 
