@@ -14,7 +14,7 @@
 ## Education
 - Google Data Analytics Professional Certificate (February 2023 – December 2023)
 - Google IT Automation with Python Professional Certificate (July 2022 – December 2022)
-- B.Sc. in Electronics and Communication Engineering from Khulna University of Engineering & Technology, Khulna, Bangladesh (2017 – 2022)
+- B.Sc. in Electronics and Communication Engineering from Khulna University of Engineering & Technology, Khulna, Bangladesh (February 2017 – March 2022)
 
 
 [Details..](/navigation/education/edu_page.md)
