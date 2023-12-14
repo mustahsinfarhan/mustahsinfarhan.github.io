@@ -51,10 +51,10 @@ Designed affordable cloud-based patient monitoring system for remote monitoring 
 [Details..](/navigation/experiences/exp_page.md)
 
 ## Scholarships
-- Google Career Certificate Scholarship through _Commonwealth of Learning_ (2022 - Present).
-- Rajshahi Education Board Scholarship for academic excellence in _Higher Secondary School Certificate_ exam, Bangladesh (2017 - 2020).
-- Rajshahi Education Board Scholarship for academic excellence in _Secondary School Certificate_ exam, Bangladesh (2015 - 2016).
-- Rajshahi Education Board Scholarship for academic excellence in _Junior School Certificate_ exam, Bangladesh (2013 to 2014).
+- Google Career Certificate Scholarship through _Commonwealth of Learning_ (2022 - Present)
+- Rajshahi Education Board Scholarship for academic excellence in _Higher Secondary School Certificate_ exam, Bangladesh (2017 - 2020)
+- Rajshahi Education Board Scholarship for academic excellence in _Secondary School Certificate_ exam, Bangladesh (2015 - 2016)
+- Rajshahi Education Board Scholarship for academic excellence in _Junior School Certificate_ exam, Bangladesh (2013 to 2014)
 
 
 ## Projects
