@@ -43,18 +43,43 @@
 
   [**Verify Certificate**](https://coursera.org/verify/8ZPAQ6PYQGEW)
   
-#### IT Automation with Python
+## IT Automation with Python
 - Configuration Management and the Cloud (December, 2022)
+  
+  **Gained Skills:**  Automation in the Cloud, CICD Pipeline, Docker & Kubernetes.
+
+  [**Verify Certificate**](https://coursera.org/verify/7Y6Q8V37ZMTX)
+  
 - Troubleshooting and Debugging Techniques (December, 2022)
+  
+  **Gained Skills:**  Troubleshoot, Improving Software Performance, Managing Resources.
+
+  [**Verify Certificate**](https://coursera.org/verify/L8CDSJKTPXLV)
+  
 - Introduction to Git and GitHub (December, 2022)
+  
+  **Gained Skills:**  Version Control, Git, GitHub, Collaboratiom.
+
+  [**Verify Certificate**](https://coursera.org/verify/8FC2LRLRHX6Z)
+  
 - Using Python to Interact with the Operating System (December, 2022)
+
+  **Gained Skills:**  Python (Programming Language), Managing Files, Regular Expression (RegEx), Software Testing, Bash.
+
+  [**Verify Certificate**](https://coursera.org/verify/KX8VMAKV7J7W)
+  
 - Crash Course on Python (September, 2022)
 
-#### Grameenphone Explorers 2.0
+  **Gained Skills:**  Python (Programming Language).
+
+  [**Verify Certificate**](https://coursera.org/verify/ULYQCQX3V6ST)
+  
+
+## Grameenphone Explorers 2.0
 - Grameenphone Explorers 2.0 Program on Communication (September, 2021)
 - Grameenphone Explorers 2.0 Program on Entrepreneurial Mindset (September, 2021)
 
-#### IT Support
+## IT Support
 - IT Security: Defense against the digital dark arts (September, 2020)
 - System Administration and IT Infrastructure Services (September, 2020)
 - Operating Systems and You: Becoming a Power User (September, 2020)
