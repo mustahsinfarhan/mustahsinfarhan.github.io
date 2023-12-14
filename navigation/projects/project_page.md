@@ -56,8 +56,11 @@ Draft Diagram for the Electric Components |  Steel Wire Wrap on the Frame  | PVC
 
 
 ### 220V AC Voltage Stabilizer (November 2018)
+#### Type: Academic (Team Project)
+The objective of this project was to design a voltage stabilizer circuit to maintain a constant 220V voltage on the output. The circuit was implemented on a breadboard for testing and later transferred to a PCB. The circuit was designed using Operational Amplifiers, relay modules for circuit switching along with a variable transformer. We desgined the circuit, tested for different input voltages and then presented a poster on the project. 
 
-
+![image 1](/assets/img/vs1.jpg) |  ![image 1](/assets/img/vs2.jpg)  |  ![image 1](/assets/img/vs3.jpg)  |  ![image 1](/assets/img/vs4.jpg)
+Circuit Diagram for the Project |  Different Component Placements on Breadboard  | Testing Output | Poster Presentation on the Project
 
 
 [Back](https://mustahsinfarhan.github.io/)
