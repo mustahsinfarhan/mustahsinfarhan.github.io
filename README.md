@@ -17,6 +17,8 @@ Design
 - project 1
 - project 2
 
+[Projects](/navigation/projects/project_page.md)
+
 ### Certifications
 - 1
 - -2
