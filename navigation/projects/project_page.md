@@ -24,17 +24,28 @@ Laser cut motor motor mounts |  Physical structure of the Battle Bot  | Control 
 #### Type: Academic (Team Project)
 The objective of this project was to build a rescue robot which can assist in rescue missions as well as monitor the environment for temperature change and detection of toxic gasses. The robot was equipped with multiple sensors, a camera which can use a pan-tilt mechanism to observe different directions, processing equipment and an on-board first aid kit box. The robot has both autonomous and manual control and high visibility led lights to maneuver on different surfaces. The wheels are modified to get a firm grip on the surface and a siren is there to warn anyone if necessary.
 
-![image 1](/assets/img/res1.jpg) |  ![image 1](/assets/img/res2.jpg)  |  ![image 1](/assets/img/res3.jpg)  |  ![image 1](/assets/img/res4.jpg)
+![image 1](/assets/img/res1.jpg) |  ![image 1](/assets/img/res5.jpg)  |  ![image 1](/assets/img/res3.jpg)  |  ![image 1](/assets/img/res4.jpg)
 Testing different components |  Added First aid kit box  | Night time testing of the robot | Final test before project submission
 
 A paper was published on this project which all the team members contributed equally. The full-text paper is available on [International Journal of Mechanical Engineering and Robotics Research](https://www.ijmerr.com/index.php?m=content&c=index&a=show&catid=191&id=1577)
 
-### Soccer Bot V.2.0 (April 2019)
+### Soccer Bot V.2.0 (September 2019)
+#### Type: Contest (Team Project)
+Essonance 2019?
+
+
+### Soccer Bot V.1.0 (July 2019)
+#### Type: Contest (Team Project)
+This soccer bot was created to attend the contest **Mecceleration 2019** organized by Islamic University of Technology, Gazipur, Bangladesh. The contest named _Robo Soccer_ featured 59 teams participating in a day-long competition, where bots competed against each other in a miniature soccer field. Me along with my team designed our soccer bot to appear bigger than average contestants to withstand the ramming of the competitor robots in the arena. I was responsible for the electronic control segments and my other team member was responsible for building the mechanical structures. A fan was placed on top of the robot to cool the electronics during the contest.
+
+![image 1](/assets/img/sb1v1.jpg) |  ![image 1](/assets/img/sb1v2.jpg)  |  ![image 1](/assets/img/sb1v3.jpg)  |  ![image 1](/assets/img/sb1v4.jpg)
+Testing different components |  Test run after motor assembly  | Front bracket to catch ball | Top view of the cooling fan
+
 
 ### Battle Bot V.1.0 (May 2019)
 
 
-### Soccer Bot V.1.0 (September 2019)
+
 
 
 ### 220V AC Voltage Stabilizer (November 2018)
