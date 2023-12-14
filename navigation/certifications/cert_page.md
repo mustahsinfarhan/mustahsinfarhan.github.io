@@ -2,8 +2,7 @@
 # Certifications
 ## Data Analytics
 
-Demonstrated commitment to professional development by earning the [Google Data Analytics Professional Certificate](https://coursera.org/verify/profession
-al-cert/Y2XL2WKMVRQV) which contained following courses with a capstone project.
+Demonstrated commitment to professional development by earning the [Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/Y2XL2WKMVRQV) which contained following courses with a capstone project.
 
 - Data Analysis with R Programming (December, 2023)
   
@@ -49,8 +48,7 @@ al-cert/Y2XL2WKMVRQV) which contained following courses with a capstone project.
   
 ## IT Automation with Python
 
-Demonstrated commitment to professional development by earning the [Google IT Automation with Python Professional Certificate](https://coursera.org/verify/profession
-al-cert/5M4XPBDQVSY6) which contained following courses with a capstone project.
+Demonstrated commitment to professional development by earning the [Google IT Automation with Python Professional Certificate](https://coursera.org/verify/professional-cert/5M4XPBDQVSY6) which contained following courses with a capstone project.
 
 - Configuration Management and the Cloud (December, 2022)
   
@@ -84,6 +82,9 @@ al-cert/5M4XPBDQVSY6) which contained following courses with a capstone project.
   
 
 ## Grameenphone Explorers 2.0
+
+Demonstrated commitment to professional development by earning certificates in the following courses.
+
 - Grameenphone Explorers 2.0 Program on Communication (September, 2021)
   
   **Gained Skills:**  Communication, Presentation Skills.
@@ -98,8 +99,7 @@ al-cert/5M4XPBDQVSY6) which contained following courses with a capstone project.
   
 ## IT Support
 
-Demonstrated commitment to professional development by earning the [Google IT Support Professional Certificate](https://coursera.org/verify/profession
-al-cert/G422DHYVDTFD) which contained following courses.
+Demonstrated commitment to professional development by earning the [Google IT Support Professional Certificate](https://coursera.org/verify/professional-cert/G422DHYVDTFD) which contained following courses.
 
 - IT Security: Defense against the digital dark arts (September, 2020)
    
