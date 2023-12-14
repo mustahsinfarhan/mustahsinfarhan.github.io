@@ -5,7 +5,7 @@
   **Instructor:** Google Career Certificates - Coursera
   **Key Concepts:** Data cleaning, preparation processes, analysis, different data analysis tools such as spreadsheets, SQL, R programming and Tableau dashboard, data visualization, hand-on activities and case studies.
   
-  [**Verify:**](https://coursera.org/verify/professional-cert/Y2XL2WKMVRQV) 
+  [**Verify**](https://coursera.org/verify/professional-cert/Y2XL2WKMVRQV) 
 
   
 - Google IT Automation with Python Professional Certificate (July 2022 – December 2022)
