@@ -62,9 +62,9 @@ Designed affordable cloud-based patient monitoring system for remote monitoring 
 - Project for Google IT Automation with Python Professional Certificate Capstone - Automatic output generation (December 2022)
 - Featherweight Battle Bot (April 2022)
 - Human Rescue & Environment Monitoring Bot (October 2019)
-- Soccer Bot V.2.0 (April 2019)
-- Battle Bot V.1.0 (May 2019)
-- Soccer Bot V.1.0 (September 2019)
+- Soccer Bot V.2.0 (September 2019)
+- Soccer Bot V.1.0 (July 2019)
+- Battle Bot V.1.0 (April 2019)
 - 220V AC Voltage Stabilizer (November 2018)
 
 [Details..](/navigation/projects/project_page.md)
