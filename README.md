@@ -3,7 +3,7 @@
 [![Logo](/assets/icons/in48.png)](https://www.linkedin.com/in/mustahsin-farhan-chowdhury/)    [![Logo](/assets/icons/gh48.png)](https://github.com/mustahsin1)    [![Logo](/assets/icons/tb48.png)](https://public.tableau.com/app/profile/mustahsin.farhan/vizzes)
 [![Logo](/assets/icons/rgg48.png)](https://www.researchgate.net/profile/Md-Mustahsin-Chowdhury)    [![Logo](/assets/icons/kg48.png)](https://www.kaggle.com/mustahsinfarhan)    
 
-[Home](https://mustahsinfarhan.github.io/)  |   [Education](/navigation/education/edu_page.md)  |   [Research](/navigation/research/research_page.md)  |   [Experience](/navigation/experiences/exp_page.md)   |  [Certifications](/navigation/certifications/cert_page.md)  |   [Projects](/navigation/projects/project_page.md)  |   [Personal](/navigation/personal/personal_page.md)
+[Home](https://mustahsinfarhan.github.io/)  |   [Education](/navigation/education/edu_page.md)  |   [Research](/navigation/research/research_page.md)  |   [Experience](/navigation/experiences/exp_page.md)   |     [Projects](/navigation/projects/project_page.md)  |  [Certifications](/navigation/certifications/cert_page.md)  |  [Personal](/navigation/personal/personal_page.md)
 
 ## Technical Skills
 - **Programming:**  C/C++  -  Python  -  Bash  -  R  -  SQL
@@ -58,10 +58,16 @@ Designed affordable cloud-based patient monitoring system for remote monitoring 
 
 
 ## Projects
-- project 1
-- project 2
+- Case Study for Google Data Analytics Professional Certificate Capstone - How does a bike-share navigate speedy (December 2023)
+- Project for Google IT Automation with Python Professional Certificate Capstone - Automatic output generation (December 2022)
+- Featherweight Battle Bot (April 2022)
+- Human Rescue & Environment Monitoring Bot (October 2019)
+- Soccer Bot V.2.0 (April 2019)
+- Battle Bot V.1.0 (May 2019)
+- Soccer Bot V.1.0 (September 2019)
+- 220V AC Voltage Stabilizer (November 2018)
 
-
+[Details..](/navigation/projects/project_page.md)
 
 ## Certifications
 - 1
