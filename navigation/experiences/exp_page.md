@@ -20,7 +20,7 @@ Led cultural events such as picnics, farewells and sports tournaments, and mento
 
 Led club activities including meetings, arranging workshops, and idea development sessions. Managed administrative tasks related to the club's constitution. 
 
-### tudent Lab Operator, FabLab, KUET (July 2019 - December 2021)
+### Student Lab Operator, FabLab, KUET (July 2019 - December 2021)
 
 Skilled in laser cutting and vector design. Assisted with 5 undergraduate thesis projects utilizing lab resources. Also, managed workshops, maintained equipment, and contributed to team meetings and projects.
 
