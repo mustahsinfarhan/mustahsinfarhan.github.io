@@ -5,6 +5,11 @@
 
 [Home](https://mustahsinfarhan.github.io/)     [Education](/navigation/projects/edu_page.md)     [Research](/navigation/projects/research_page.md)     [Experience](/navigation/projects/exp_page.md)     [Certifications](/navigation/projects/cert_page.md)     [Projects](/navigation/projects/project_page.md)     [Personal](/navigation/projects/personal_page.md)
 
+### Technical Skills
+**Programming:**  C/C++  -  Python  -  Bash  -  R  -  SQL
+**Software:**     Spreadsheets  -  Git  -  Illustrator  -  Arduino IDE  -  Tableau
+**Platform:**     Google Cloud, Posit (Rstudio) Cloud
+
 ### Education
 - Coursera
 - Coursera
