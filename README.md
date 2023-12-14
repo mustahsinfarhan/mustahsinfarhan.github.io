@@ -5,34 +5,36 @@
 
 [Home](https://mustahsinfarhan.github.io/)     [Education](/navigation/projects/edu_page.md)     [Research](/navigation/projects/research_page.md)     [Experience](/navigation/projects/exp_page.md)     [Certifications](/navigation/projects/cert_page.md)     [Projects](/navigation/projects/project_page.md)     [Personal](/navigation/projects/personal_page.md)
 
-### Technical Skills
+## Technical Skills
 **Programming:**  C/C++  -  Python  -  Bash  -  R  -  SQL
 
 **Software:**     Spreadsheets  -  Git  -  Illustrator  -  Arduino IDE  -  Tableau
 
-**Platform:**     Google Cloud, Posit (Rstudio) Cloud
+**Platform:**     Google Cloud  -  Posit (Rstudio) Cloud
 
-### Education
-- Coursera
-- Coursera
-- BSc.
 
-[More..](/navigation/projects/edu_page.md)
+## Education
+- Google Data Analytics Professional Certificate | February 2023 – December 2023
+- Google IT Automation with Python Professional Certificate | July 2022 – December 2022
+- B.Sc. in Electronics and Communication Engineering | 2017 – 2022 
 
-### Publications
+
+[Details..](/navigation/projects/edu_page.md)
+
+## Publications
 - 1 st
 - 2nd
 
-### Reserach Ex
+## Reserach Ex
 Design
 
-### Projects
+## Projects
 - project 1
 - project 2
 
 
 
-### Certifications
+## Certifications
 - 1
 - -2
 
