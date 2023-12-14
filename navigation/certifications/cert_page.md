@@ -1,6 +1,10 @@
 [Home](https://mustahsinfarhan.github.io/)
 # Certifications
 ## Data Analytics
+
+Demonstrated commitment to professional development by earning the [Google Data Analytics Professional Certificate](https://coursera.org/verify/profession
+al-cert/Y2XL2WKMVRQV) which contained following courses with a capstone project.
+
 - Data Analysis with R Programming (December, 2023)
   
   **Gained Skills:**  Data Analysis, R (Programming Knowledge), R Markdown
@@ -44,6 +48,10 @@
   [**Verify Certificate**](https://coursera.org/verify/8ZPAQ6PYQGEW)
   
 ## IT Automation with Python
+
+Demonstrated commitment to professional development by earning the [Google IT Automation with Python Professional Certificate](https://coursera.org/verify/profession
+al-cert/5M4XPBDQVSY6) which contained following courses with a capstone project.
+
 - Configuration Management and the Cloud (December, 2022)
   
   **Gained Skills:**  Automation in the Cloud, CICD Pipeline, Docker & Kubernetes.
@@ -89,6 +97,10 @@
   [**Verify Certificate**](/navigation/certifications/gpe2em_cert.pdf)
   
 ## IT Support
+
+Demonstrated commitment to professional development by earning the [Google IT Support Professional Certificate](https://coursera.org/verify/profession
+al-cert/G422DHYVDTFD) which contained following courses.
+
 - IT Security: Defense against the digital dark arts (September, 2020)
    
   **Gained Skills:**  Cybersecurity, Cryptography.
@@ -103,7 +115,7 @@
   
 - Operating Systems and You: Becoming a Power User (September, 2020)
        
-  **Gained Skills:**  Operating Systems, Software Management, Process Management.
+  **Gained Skills:**  Operating Systems, Linux, Software Management, Process Management.
 
   [**Verify Certificate**](https://coursera.org/verify/VBTMG75ZWEEP)
   
