@@ -36,7 +36,7 @@ Essonance 2019?
 
 ### Soccer Bot V.1.0 (July 2019)
 #### Type: Contest (Team Project)
-This soccer bot was created to attend the contest **Mecceleration 2019** organized by Islamic University of Technology, Gazipur, Bangladesh. The contest named _Robo Soccer_ featured 59 teams participating in a day-long competition, where bots competed against each other in a miniature soccer field. Me along with my team designed our soccer bot to appear bigger than average contestants to withstand the ramming of the competitor robots in the arena. I was responsible for the electronic control segments and my other team member was responsible for building the mechanical structures. A fan was placed on top of the robot to cool the electronics during the contest.
+This soccer bot was created to attend the contest **Mecceleration 2019** organized by Islamic University of Technology, Gazipur, Bangladesh. The contest named _Robo Soccer_ featured 59 teams participating in a day-long competition, where bots competed against each other in a miniature soccer field. Me along with my teammate, designed our soccer bot to appear bigger than average contestants to withstand the ramming of the competitor robots in the arena. I was responsible for the electronic control segments and my other team member was responsible for building the mechanical structures. A fan was placed on top of the robot to cool the electronics during the contest.
 
 ![image 1](/assets/img/sb1v1.jpg) |  ![image 1](/assets/img/sb1v2.jpg)  |  ![image 1](/assets/img/sb1v3.jpg)  |  ![image 1](/assets/img/sb1v4.jpg)
 Testing different components |  Test run after motor assembly  | Front bracket to catch ball | Top view of the cooling fan
