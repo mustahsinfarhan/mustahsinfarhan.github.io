@@ -19,11 +19,12 @@
   [**Verify Here**](https://coursera.org/verify/professional-cert/5M4XPBDQVSY6)
 
   
-- B.Sc. in Electronics and Communication Engineering (2017 – 2022)
+- B.Sc. in Electronics and Communication Engineering (February 2017 – March 2022)
   
   **Institute:** Khulna University of Engineering & Technology (KUET), Khulna, Bangladesh
   
   **Key Courses:** Fundamentals of electronics and communication technologies (Solid-state Electronics, Digital Electronics, Microprocessors, VLSI design, Biomedical Engineering etc.), Programming (C, C++), Mathematics Databases, Data structures & Algorithms, Machine learning (Supervised Learning, Reinforcement Learning, etc.) and Internet of things. 
 
+  **Due to Covid-19 situation, last two semesters were delayed and finished on March 2022**
 
 [Back](https://mustahsinfarhan.github.io/) 
