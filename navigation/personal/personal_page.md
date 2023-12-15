@@ -44,6 +44,9 @@ Modhu Polli, Sagordari, Jessore  |  Shat Gambuj Mosque, Bagerhat
 
 
 # DIY Projects
+Since my childhood, I've always been curious about how different things worked, which eventually turned into the curiosity about how I can build that thing. This passion led me to find joy in DIY projects, which are my favorite things to work at. Over the years I have made a soil moisture meter for my aunt so that she can maintain her intricate, moisture sensitive, plants. I also created a personalized photo scrapbook using printed pattern papers, starting from scratch.
+
+One of my friends needed help making a customized lamp but it was very expensive to build. I came up with the idea of using tracing papers instead of transparency papers. Even though the visibility is not great for tracing papers, for the purpose of the project, it worked perfectly as it can disperse light when placed in front of a light source. The end result was truly impressive. 
 
 
 [Back](https://mustahsinfarhan.github.io/)
