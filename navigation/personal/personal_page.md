@@ -24,7 +24,13 @@ I like to visit new places to observe the natural and architectural beauty as we
 
 Since my childhood, I lived in different northern districts due to my parent’s workplace changes. I observed the difference between certain city areas, the people and the weather which taught me about adaptation and growth.
 
-Here are some places where I visited the past couple of years:
+Here are some places where I visited the past couple of years inside Bangladesh:
+
+![image 1](/assets/img/tr1.jpg) |  ![image 2](/assets/img/tr2.jpg) |  ![image 3](/assets/img/tr3.jpg)
+
+Kuakata Sea Beach, Patuakhali |  Tengragiri Wildlife Sanctuary, Barguna |  Carmichael College, Rangpur
+
+
 
 # DIY Projects
 
