@@ -100,8 +100,9 @@ Designed affordable cloud-based patient monitoring system for remote monitoring 
 [Details..](/navigation/certifications/cert_page.md)
 
 ## Hobbies
-- Gardening
+- Urban Gardening
 - Reading Books
 - Travelling
+- DIY Projects
 
 [Details..](/navigation/personal/personal_page.md)
