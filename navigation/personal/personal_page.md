@@ -20,7 +20,11 @@ Some favorite standalone novels include **Origin** by Dan Brown, **1984** by Geo
 I’ve read other self-help books such as Eat That Frog by Brian Tracy, which focuses on tackling the toughest tasks first, and The One Minute Manager by Ken Blanchard and Spencer Johnson, offering practical leadership strategies. I’ve also read the biography of Elon Musk, titled **Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future**, written by Ashlee Vance. His vision and accomplishments continue to inspire me in my own technological pursuits.
 
 # Travelling
+I like to visit new places to observe the natural and architectural beauty as well as different cultures. In fact, this inspired me to sign up to become a local guide for Google Maps as I can share my experience with others. I get to explore new areas while traveling and guide others on how to get there or what they expect the experience to be. 
 
+Since my childhood, I lived in different northern districts due to my parent’s workplace changes. I observed the difference between certain city areas, the people and the weather which taught me about adaptation and growth.
+
+Here are some places where I visited the past couple of years:
 
 # DIY Projects
 
