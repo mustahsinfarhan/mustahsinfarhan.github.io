@@ -23,7 +23,7 @@ Designed a wedge shaped Featherweight (15Kg weight class) Battle Bot with an act
 
 **Used Technologies:** Arduino Nano, BTS-7960 Motor Driver, 2.4 GHz RC Transmitter Receiver Pair, Lipo Battery and Arduino IDE.
 
-![image 1](/assets/img/bb1.jpg) |  ![image 1](/assets/img/bb2.jpg)  |  ![image 1](/assets/img/bb3.jpg)  |  ![image 1](/assets/img/bb4.jpg)
+![image 1](/assets/img/bb1.jpg) |  ![image 2](/assets/img/bb2.jpg)  |  ![image 3](/assets/img/bb3.jpg)  |  ![image 4](/assets/img/bb4.jpg)
 Laser Cut Motor Mounts |  Physical Structure of the Battle Bot  | Control Circuits | Complete Assembly of the Conmponents
 
 
@@ -33,7 +33,7 @@ The objective of this project was to build a rescue robot which can assist in re
 
 **Used Technologies:** Arduino Nano, Raspberry Pi 3B+, Different Gas Sensors, Temperature and humidity sensor, 2.4 GHz RC Transmitter Receiver Pair, L298N Motor Driver, Arduino IDE and OpenCV.
 
-![image 1](/assets/img/res1.jpg) |  ![image 1](/assets/img/res5.jpg)  |  ![image 1](/assets/img/res3.jpg)  |  ![image 1](/assets/img/res4.jpg)
+![image 1](/assets/img/res1.jpg) |  ![image 2](/assets/img/res5.jpg)  |  ![image 3](/assets/img/res3.jpg)  |  ![image 4](/assets/img/res4.jpg)
 Testing Different Components |  Added First Aid Kit Box  | Night Time Testing of the Robot | Final Test Before Project Submission
 
 A paper was published on this project which all the team members contributed equally. The full-text paper is available on [International Journal of Mechanical Engineering and Robotics Research](https://www.ijmerr.com/index.php?m=content&c=index&a=show&catid=191&id=1577)
@@ -44,7 +44,7 @@ This robot was the revised version of the previous soccer bot to attend the cont
 
 **Used Technologies:** Arduino Nano, L298N Motor Driver, 2.4 GHz RC Transmitter Receiver Pair, DC Fan and Arduino IDE.
 
-![image 1](/assets/img/sb2v1.jpg) |  ![image 1](/assets/img/sb2v2.jpg)  |  ![image 1](/assets/img/sb2v3.jpg)  |  ![image 1](/assets/img/sb2v4.jpg)
+![image 1](/assets/img/sb2v1.jpg) |  ![image 2](/assets/img/sb2v2.jpg)  |  ![image 3](/assets/img/sb2v3.jpg)  |  ![image 4](/assets/img/sb2v4.jpg)
 Redesigned Front Bracket |  Back View of the Robot  | On the Contest Day | Night View of the Robot
 
 
@@ -54,7 +54,7 @@ This soccer bot was created to attend the contest **Mecceleration 2019** organiz
 
 **Used Technologies:** Arduino Nano, L298N Motor Driver, 2.4 GHz RC Transmitter Receiver Pair, DC Fan and Arduino IDE.
 
-![image 1](/assets/img/sb1v1.jpg) |  ![image 1](/assets/img/sb1v2.jpg)  |  ![image 1](/assets/img/sb1v3.jpg)  |  ![image 1](/assets/img/sb1v4.jpg)
+![image 1](/assets/img/sb1v1.jpg) |  ![image 2](/assets/img/sb1v2.jpg)  |  ![image 3](/assets/img/sb1v3.jpg)  |  ![image 4](/assets/img/sb1v4.jpg)
 Testing Different Components |  Test Run After Motor Assembly  | Front Bracket to Catch the Ball | Top View of the Cooling Fan
 
 
@@ -64,7 +64,7 @@ This battle bot was designed to participate in the contest named **Robolution- 2
 
 **Used Technologies:** Arduino Mega, L298N Motor Drivers, 2.4 GHz RC Transmitter Receiver Pair, DC Fan and Arduino IDE.
 
-![image 1](/assets/img/bb2v1.jpg) |  ![image 1](/assets/img/bb2v2.jpg)  |  ![image 1](/assets/img/bb2v3.jpg)  |  ![image 1](/assets/img/bb2v4.jpg)
+![image 1](/assets/img/bb2v1.jpg) |  ![image 2](/assets/img/bb2v2.jpg)  |  ![image 3](/assets/img/bb2v3.jpg)  |  ![image 4](/assets/img/bb2v4.jpg)
 Draft Diagram for the Electric Components |  Steel Wire Wrap on the Frame  | PVC Body Panels | Final Assembly of the Robot
 
 
@@ -75,7 +75,7 @@ The objective of this project was to design a voltage stabilizer circuit to main
 
 **Used Technologies:** Transformer, Relays, Op-Amps, Variable Resistors, Diode and Proteus (PCB Design and Circuit Simulator Software).
 
-![image 1](/assets/img/vs1.JPG) |  ![image 1](/assets/img/vs2.jpg)  |  ![image 1](/assets/img/vs3.jpg)  |  ![image 1](/assets/img/vs4.jpg)
+![image 1](/assets/img/vs1.JPG) |  ![image 2](/assets/img/vs2.jpg)  |  ![image 3](/assets/img/vs3.jpg)  |  ![image 4](/assets/img/vs4.jpg)
 Circuit Diagram for the Project |  Different Component Placements on Breadboard  | Testing Output | Poster Presentation on the Project
 
 
