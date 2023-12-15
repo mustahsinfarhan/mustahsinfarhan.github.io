@@ -30,6 +30,13 @@ Here are some places where I visited the past couple of years inside Bangladesh:
 
 Kuakata Sea Beach, Patuakhali |  Tengragiri Wildlife Sanctuary, Barguna |  Carmichael College, Rangpur
 
+![image 4](/assets/img/tr4.jpg) |  ![image 5](/assets/img/tr5.jpg) |  ![image 6](/assets/img/tr6.jpg)
+
+Teesta Barrage, Lalmonirhat |  Kaptai Lake, Rangamati  |  Lake Paradise, Kaptai, Rangamati
+
+![image 7](/assets/img/tr7.jpg) |  ![image 8](/assets/img/tr8.jpg) |  ![image 9](/assets/img/tr9.jpg)
+
+Horticulture Heritage Park, Khagrachari |  Modhu Polli, Sagordari, Jessore  |  Shat Gambuj Mosque, Bagerhat
 
 
 # DIY Projects
