@@ -106,3 +106,12 @@ Designed affordable cloud-based patient monitoring system for remote monitoring 
 - DIY Projects
 
 [Details..](/navigation/personal/personal_page.md)
+
+## External Links
+Explore my work and connect with me on the following platforms:
+- [LinkedIn](https://www.linkedin.com/in/mustahsin-farhan-chowdhury/)
+- [Researchgate](https://www.researchgate.net/profile/Md-Mustahsin-Chowdhury)
+- [Kaggle](https://www.kaggle.com/mustahsinfarhan)
+- [GitHub](https://github.com/mustahsin1)
+- [Tableau](https://public.tableau.com/app/profile/mustahsin.farhan/vizzes)
+
