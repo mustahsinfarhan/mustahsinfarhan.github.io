@@ -13,6 +13,7 @@ Designed affordable cloud-based patient monitoring system for remote monitoring 
 **Contribution:** Conducted independent research under the guidance of [Dr. Md. Faruque Hossain](https://www.kuet.ac.bd/ece/fhossain/) and the thesis was submitted to fulfill the partial requirement for the BSc. Degree in Electronics and Communication Engineering.
 
 
+
 ## Publications
 ### S. S. Alam, M. S. Islam, M. M. F. Chowdhury, T. Ahmed, "An IoT Based Health Monitoring System to Tackle COVID-19 in a Contagious Ward of Hospital ," _International Journal of Advanced Medical Sciences and Technology_, Vol. 1, No. 4, August 2021. https://doi.org/10.35940/ijamst.C3022.081421.
 
