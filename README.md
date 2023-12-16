@@ -20,7 +20,7 @@
 [Details..](/navigation/education/edu_page.md)
 
 ## Research Experiences
-#### Undergraduate Thesis
+### Undergraduate Thesis
 
 **Design and Implementation of IoT based Patient Monitoring System Integrating Cloud Platform**
 
@@ -32,7 +32,7 @@ Designed affordable cloud-based patient monitoring system for remote monitoring 
 [Details..](/navigation/research/research_page.md)
 
 
-#### Publications
+### Publications
 - S. S. Alam, M. S. Islam, M. M. F. Chowdhury, T. Ahmed, "An IoT Based Health Monitoring System to Tackle COVID-19 in a Contagious Ward of Hospital ," _International Journal of Advanced Medical Sciences and Technology_, Vol. 1, No. 4, August 2021. https://doi.org/10.35940/ijamst.C3022.081421.
 
   **Contribution:** Made significant contributions to the conception, design, and development of algorithms for the robot’s functionalities and collaborated with other authors to write the paper.
@@ -81,7 +81,7 @@ Designed affordable cloud-based patient monitoring system for remote monitoring 
 [Details..](/navigation/projects/project_page.md)
 
 ## Certifications
-#### Data Analytics
+### Data Analytics
 - Data Analysis with R Programming (December, 2023)
 - Share Data Through the Art of Visualization (October, 2023)
 - Analyze Data to Answer Questions (October, 2023)
@@ -90,18 +90,18 @@ Designed affordable cloud-based patient monitoring system for remote monitoring 
 - Ask Questions to Make Data-Driven Decisions (June, 2023)
 - Foundations: Data, Data, Everywhere (February, 2023)
 
-#### IT Automation with Python
+### IT Automation with Python
 - Configuration Management and the Cloud (December, 2022)
 - Troubleshooting and Debugging Techniques (December, 2022)
 - Introduction to Git and GitHub (December, 2022)
 - Using Python to Interact with the Operating System (December, 2022)
 - Crash Course on Python (September, 2022)
 
-#### Grameenphone Explorers 2.0
+### Grameenphone Explorers 2.0
 - Grameenphone Explorers 2.0 Program on Communication (September, 2021)
 - Grameenphone Explorers 2.0 Program on Entrepreneurial Mindset (September, 2021)
 
-#### IT Support
+### IT Support
 - IT Security: Defense against the digital dark arts (September, 2020)
 - System Administration and IT Infrastructure Services (September, 2020)
 - Operating Systems and You: Becoming a Power User (September, 2020)
@@ -121,7 +121,7 @@ Designed affordable cloud-based patient monitoring system for remote monitoring 
 ## External Links
 Explore my work and connect with me on the following platforms:
 - [LinkedIn](https://www.linkedin.com/in/mustahsin-farhan-chowdhury/)
-- [Researchgate](https://www.researchgate.net/profile/Md-Mustahsin-Chowdhury)
+- [ResearchGate](https://www.researchgate.net/profile/Md-Mustahsin-Chowdhury)
 - [Kaggle](https://www.kaggle.com/mustahsinfarhan)
 - [GitHub](https://github.com/mustahsin1)
 - [Tableau](https://public.tableau.com/app/profile/mustahsin.farhan/vizzes)
