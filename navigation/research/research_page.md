@@ -4,7 +4,7 @@
 ## Undergraduate Thesis
 **Design and Implementation of IoT based Patient Monitoring System Integrating Cloud Platform**
 
-Designed affordable cloud-based patient monitoring system for remote monitoring of heart rate and temperature in resource-limited settings which improves accessibility and reduces workload for medical professionals. 
+Designed an affordable cloud-based patient monitoring system for remote monitoring of heart rate and temperature in resource-limited settings which improves patient care and reduces workload for medical professionals. 
 
 **Technologies:** Internet of Things (IoT), Cloud Computing, Networking, SQL, C++, Arduino IDE, Git, OpenSSL. 
 
