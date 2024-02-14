@@ -24,7 +24,7 @@
 
 **Design and Implementation of IoT based Patient Monitoring System Integrating Cloud Platform**
 
-Designed affordable cloud-based patient monitoring system for remote monitoring of heart rate and temperature in resource-limited settings which improves accessibility and reduces workload for medical professionals.
+Designed an affordable cloud-based patient monitoring system for remote monitoring of heart rate and temperature in resource-limited settings which improves patient care and reduces workload for medical professionals.
 
 **Contribution:** Conducted independent research under the guidance of [Dr. Md. Faruque Hossain](https://www.kuet.ac.bd/ece/fhossain/) and the thesis was submitted to fulfill the partial requirement for the BSc. Degree in Electronics and Communication Engineering.
 
