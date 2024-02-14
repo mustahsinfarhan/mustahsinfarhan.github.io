@@ -69,7 +69,7 @@ Designed affordable cloud-based patient monitoring system for remote monitoring 
 
 
 ## Projects
-- Case Study for Google Data Analytics Professional Certificate Capstone - How does a bike-share navigate speedy (December 2023)
+- Case Study for Google Data Analytics Professional Certificate Capstone - How does a bike-share navigate speedy success (December 2023)
 - Project for Google IT Automation with Python Professional Certificate Capstone - Automatic output generation (December 2022)
 - Featherweight Battle Bot (April 2022)
 - Human Rescue & Environment Monitoring Bot (October 2019)
