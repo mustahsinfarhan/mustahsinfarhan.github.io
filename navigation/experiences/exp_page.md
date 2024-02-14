@@ -2,12 +2,12 @@
 # Work Experiences
 ### Freelance Data Analyst (February 2023)
 
-Conducted data collection, cleaning, and organizing data into spreadsheets for a renowned YouTuber's mentorship program serving over 500 students.
+Conducted data collection, cleaning, and organizing data into spreadsheets for a renowned YouTuber’s mentorship program serving over 500 students.
 
 
 ### Freelance Video Editor (April 2020 - September 2021)
 
-Enhanced the quality of 31 educational videos for school students by editing contents, removing background noise, adjusting color balance, and rendering videos for optimal viewing on online classes.
+Enhanced the quality of 31 educational videos for school students by editing content, removing background noise, adjusting color balance, and rendering videos for optimal viewing in online classes. 
 
 
 
