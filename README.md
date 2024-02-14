@@ -7,7 +7,7 @@
 
 ## Technical Skills
 - **Programming:**  C/C++  -  Python  -  Bash  -  R  -  SQL
-- **Software:**     Spreadsheets  -  Git  -  Illustrator  -  Arduino IDE  -  Tableau  -  Premiere Pro
+- **Software:**     Spreadsheets  -  Git  -  MATLAB - Illustrator  -  Arduino IDE  -  Tableau  -  Premiere Pro
 - **Platform:**     Google Cloud  -  Posit (Rstudio) Cloud
 
 
