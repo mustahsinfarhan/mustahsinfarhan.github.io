@@ -1,6 +1,6 @@
 [Home](https://mustahsinfarhan.github.io/)
 # Work Experiences
-### Freelance Data Analyst (February 2023)
+### Freelance Data Analyst (February 2023 - April 2024)
 
 Conducted data collection, cleaning, and organizing data into spreadsheets for a renowned YouTuber’s mentorship program serving over 500 students.
 
