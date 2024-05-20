@@ -7,8 +7,8 @@
 
 ## Technical Skills
 - **Programming:**  C/C++  -  Python  -  Bash  -  R  -  SQL
-- **Software:**     Spreadsheets  -  Git  -  MATLAB - Illustrator  -  Arduino IDE  -  Tableau  -  Premiere Pro
-- **Platform:**     Google Cloud  -  Posit (Rstudio) Cloud
+- **Software:**     Spreadsheets  -  Git  -  MATLAB - Illustrator  -  Tableau  -  Premiere Pro
+- **Platform:**     Google Cloud  -  Posit (Rstudio) Cloud - Arduino IDE
 
 
 ## Education
@@ -46,7 +46,7 @@ Designed an affordable cloud-based patient monitoring system for remote monitori
 
 
 ## Work Experiences
-- **Freelance Data Analyst** (February 2023)
+- **Freelance Data Analyst** (February 2023 - April 2024)
 - **Freelance Video Editor** (April 2020 - September 2021)
 
 
