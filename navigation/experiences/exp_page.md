@@ -1,5 +1,6 @@
 [Home](https://mustahsinfarhan.github.io/)
 # Work Experiences
+<hr>
 ## Embedded Software Engineer
 **BJIT Limited (June 2024 - Present)**
 
