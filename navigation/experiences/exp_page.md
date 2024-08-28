@@ -8,7 +8,7 @@ I specialize in designing and developing innovative embedded systems using RTOS 
 **Skills:** ARM Microcontrollers · Real-Time Operating Systems (RTOS) · C++ · C (Programming Language) · Communication Protocols · Internet of Things (IoT) · Embedded Devices · Embedded System Design
 
 <br>
-<br>
+
 ## Freelance Data Analyst 
 **(February 2023 - April 2024)**
 
@@ -16,7 +16,7 @@ Conducted data collection, cleaning, and organizing data into spreadsheets for a
 
 **Skills:** Communication · Organizational Leadership · Event Management
 
-
+<br>
 
 ## Freelance Video Editor 
 **(April 2020 - September 2021)**
@@ -25,8 +25,8 @@ Enhanced the quality of 31 educational videos for school students by editing con
 
 **Skills:** Educational Workshops · Communication · Organization Skills
 
-
-
+<br>
+<br>
 
 
 # Volunteer Experiences
@@ -37,6 +37,7 @@ Led cultural events such as picnics, farewells and sports tournaments, and mento
 
 **Skills:** Communication · Organizational Leadership · Event Management
 
+<br>
 
 ## General Secretary 
 **Manipulators of Electronics Club, KUET (January 2021 - April 2022)**
@@ -45,6 +46,7 @@ Led club activities including meetings, arranging workshops, and idea developmen
 
 **Skills:** Educational Workshops · Communication · Organization Skills
 
+<br>
 
 ## Student Lab Operator
 **FabLab, KUET (July 2019 - December 2021)**
@@ -55,6 +57,7 @@ Skilled in laser cutting and vector design. Assisted with 5 undergraduate thesis
 
 **Skills:** Vector Illustration · Laser Cutting · Raspberry Pi Ecosystem · Arduino Ecosystem · Communication
 
+<br>
 
 ### Level 5 Local Guide
 **Google Maps (February 2017 - Present)**
@@ -63,5 +66,7 @@ Contributed to improving local information by adding places and writing informat
 
 **Skills:** Communication · Geospatial data management 
 
+<br>
+<br>
 
 [Back](https://mustahsinfarhan.github.io/)
