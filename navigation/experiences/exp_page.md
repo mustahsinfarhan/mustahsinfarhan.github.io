@@ -7,8 +7,8 @@ I specialize in designing and developing innovative embedded systems using RTOS 
 
 **Skills:** ARM Microcontrollers · Real-Time Operating Systems (RTOS) · C++ · C (Programming Language) · Communication Protocols · Internet of Things (IoT) · Embedded Devices · Embedded System Design
 
-
-
+<br>
+<br>
 ## Freelance Data Analyst 
 **(February 2023 - April 2024)**
 
