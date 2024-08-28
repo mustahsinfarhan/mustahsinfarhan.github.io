@@ -1,6 +1,7 @@
 [Home](https://mustahsinfarhan.github.io/)
 # Work Experiences
 <hr>
+
 ## Embedded Software Engineer
 **BJIT Limited (June 2024 - Present)**
 
@@ -31,6 +32,8 @@ Enhanced the quality of 31 educational videos for school students by editing con
 
 
 # Volunteer Experiences
+<hr>
+
 ## Vice President 
 **Kuetians of Naogaon Association, KUET (June 2021 - May 2022)**
 
