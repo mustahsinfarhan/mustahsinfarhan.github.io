@@ -11,6 +11,14 @@
 - **Platform:**     Google Cloud  -  Posit (Rstudio) Cloud - Arduino IDE
 
 
+## Work Experiences
+- **Embedded Software Engineer, BJIT Limited**  (June 2024 - Present)
+- **Freelance Data Analyst** (February 2023 - April 2024)
+- **Freelance Video Editor** (April 2020 - September 2021)
+
+
+[Details..](/navigation/experiences/exp_page.md)
+
 ## Education
 - Google Data Analytics Professional Certificate (February 2023 – December 2023)
 - Google IT Automation with Python Professional Certificate (July 2022 – December 2022)
@@ -43,14 +51,6 @@ Designed an affordable cloud-based patient monitoring system for remote monitori
 
 
 [Details..](/navigation/research/research_page.md)
-
-
-## Work Experiences
-- **Freelance Data Analyst** (February 2023 - April 2024)
-- **Freelance Video Editor** (April 2020 - September 2021)
-
-
-[Details..](/navigation/experiences/exp_page.md)
 
 
 ## Volunteer Experiences
