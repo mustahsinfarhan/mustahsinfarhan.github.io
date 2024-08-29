@@ -67,7 +67,15 @@ Designed an affordable cloud-based patient monitoring system for remote monitori
 - Rajshahi Education Board Scholarship for academic excellence in _Secondary School Certificate_ exam, Bangladesh (2015 - 2016)
 - Rajshahi Education Board Scholarship for academic excellence in _Junior School Certificate_ exam, Bangladesh (2013 to 2014)
 
-
+## Hardware Experience
+**Development Boards:**
+* STM32 Minimum System Board (STM32F103ZET6)
+* STM32 Bluepill (STM32F103C8T6)
+* Nucleo-64 Boards (NUCLEO-F303RE, NUCLEO-F446RE)
+* ESP 32 (Dev Kit V1)
+* Arduino MEGA 2560
+* Arduino UNO/Nano
+  
 ## Projects
 - Case Study for Google Data Analytics Professional Certificate Capstone - How does a bike-share navigate speedy success (December 2023)
 - Project for Google IT Automation with Python Professional Certificate Capstone - Automatic output generation (December 2022)
