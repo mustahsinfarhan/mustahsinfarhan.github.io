@@ -12,6 +12,14 @@
 
 <br>
 
+### Communication Protocols
+* Controller Area Network (CAN)
+* Universal Synchronous and Asynchronous Receiver-Transmitter (USART)
+* Inter-Integrated Circuit Protocol (I2C)
+* Serial Peripheral Interface (SPI)
+
+<br>
+
 # Projects
 <hr>
 
