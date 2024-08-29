@@ -1,9 +1,8 @@
 [Home](https://mustahsinfarhan.github.io/) 
-# Development Boards
+# Hardware Experience
 <hr>
 
-### Hardware Experience
-**Development Boards:**
+### Development Boards
 * STM32 Minimum System Board (STM32F103ZET6)
 * STM32 Bluepill (STM32F103C8T6)
 * Nucleo-64 Boards (NUCLEO-F303RE, NUCLEO-F446RE)
