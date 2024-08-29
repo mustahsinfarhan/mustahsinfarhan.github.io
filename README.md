@@ -68,7 +68,7 @@ Designed an affordable cloud-based patient monitoring system for remote monitori
 - Rajshahi Education Board Scholarship for academic excellence in _Junior School Certificate_ exam, Bangladesh (2013 to 2014)
 
 ## Hardware Experience
-**Development Boards:**
+###Development Boards:
 * STM32 Minimum System Board (STM32F103ZET6)
 * STM32 Bluepill (STM32F103C8T6)
 * Nucleo-64 Boards (NUCLEO-F303RE, NUCLEO-F446RE)
