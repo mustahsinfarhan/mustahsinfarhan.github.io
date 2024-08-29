@@ -10,7 +10,6 @@
 * Arduino MEGA 2560
 * Arduino UNO/Nano
 
-<br>
 
 ### Communication Protocols
 * Controller Area Network (CAN)
