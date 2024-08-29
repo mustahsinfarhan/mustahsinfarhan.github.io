@@ -75,7 +75,13 @@ Designed an affordable cloud-based patient monitoring system for remote monitori
 * ESP 32 (Dev Kit V1)
 * Arduino MEGA 2560
 * Arduino UNO/Nano
-  
+
+### Communication Protocols
+* Controller Area Network (CAN)
+* Universal Synchronous and Asynchronous Receiver-Transmitter (USART)
+* Inter-Integrated Circuit Protocol (I2C)
+* Serial Peripheral Interface (SPI)
+
 ## Projects
 - Case Study for Google Data Analytics Professional Certificate Capstone - How does a bike-share navigate speedy success (December 2023)
 - Project for Google IT Automation with Python Professional Certificate Capstone - Automatic output generation (December 2022)
