@@ -15,6 +15,7 @@
 
 # Projects
 <hr>
+
 ### Case Study for Google Data Analytics Professional Certificate Capstone - How does a bike-share navigate speedy success (December 2023)
 In this case study, I analyzed bike-sharing data for one quarter and recommended promotional strategies that the company should implement to maximize profit. My main focus in the analysis was to understand how casual riders and annual members use bikes differently. By understanding these differences, my team could then develop strategies to convert casual riders into annual members.
 
