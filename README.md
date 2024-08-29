@@ -6,9 +6,9 @@
 [Home](https://mustahsinfarhan.github.io/)  |   [Education](/navigation/education/edu_page.md)  |   [Research](/navigation/research/research_page.md)  |   [Experience](/navigation/experiences/exp_page.md)   |     [Projects](/navigation/projects/project_page.md)  |  [Certifications](/navigation/certifications/cert_page.md)  |  [Hobbies](/navigation/personal/personal_page.md)
 
 ## Technical Skills
-- **Programming:**  C/C++  -  Python  -  Bash  -  R  -  SQL
-- **Software:**     Spreadsheets  -  Git  -  MATLAB - Illustrator  -  Tableau  -  Premiere Pro
-- **Platform:**     Google Cloud  -  Posit (Rstudio) Cloud - Arduino IDE
+- **Programming:**  C/C++  -  Python  -  Bash  -  R  -  SQL  -  Bare Metal
+- **Software:**     Visual Studio Code -  Spreadsheets  -  Git  -  MATLAB - Illustrator  -  Tableau  -  Premiere Pro  
+- **Platform:**     Google Cloud  -  Posit (Rstudio) Cloud - Arduino IDE - STM32 CubeIDE 
 
 
 ## Work Experiences
