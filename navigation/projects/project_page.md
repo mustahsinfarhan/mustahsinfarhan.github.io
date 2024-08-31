@@ -6,6 +6,7 @@
 * STM32 Minimum System Board (STM32F103ZET6)
 * STM32 Bluepill (STM32F103C8T6)
 * Nucleo-64 Boards (NUCLEO-F303RE, NUCLEO-F446RE)
+* Raspberry Pi (RPi 4 Model B, RPi 3 Model B+)
 * ESP 32 (Dev Kit V1)
 * Arduino MEGA 2560
 * Arduino UNO/Nano
@@ -16,6 +17,9 @@
 * Universal Synchronous and Asynchronous Receiver-Transmitter (USART)
 * Inter-Integrated Circuit Protocol (I2C)
 * Serial Peripheral Interface (SPI)
+* Message Queuing Telemetry Transport (MQTT)
+* Long Range Wide Area Network (LoRaWAN)
+* Zigbee
 
 <br>
 
