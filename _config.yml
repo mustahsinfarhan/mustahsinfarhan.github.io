@@ -2,6 +2,4 @@ title: Md Mustahsin Farhan Chowdhury
 logo: /assets/img/profile_pic.png
 description: I am interested in Embedded Engineering, Electric Vehicles, and related fields. I built different line follower robots, soccer bots, and battle bots throughout my undergraduate years. I am excited to utilize my technical skills, and leverage experience in robotics and Internet of Things (IoT) systems to develop innovative embedded products and research. 
 show_downloads: false
-theme: pages-themes/minimal@v0.2.0
-#remote_theme: pages-themes/minimal@v0.2.0
-#theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
