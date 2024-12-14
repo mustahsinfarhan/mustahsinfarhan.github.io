@@ -3,3 +3,5 @@ logo: /assets/img/profile_pic.png
 description: Hi! I am Farhan, a full-time Software Developer. I am eager to contribute in cutting-edge research and product development. I am proficient in C/C++, Python, and data analytics and experienced in robotics and IoT projects. 
 show_downloads: false
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
