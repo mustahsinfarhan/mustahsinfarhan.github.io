@@ -1,4 +1,4 @@
-# Electronics and Communication Engineer
+# Embedded Software Engineer
 
 [![Logo](/assets/icons/in48.png)](https://www.linkedin.com/in/mustahsin-farhan-chowdhury/)    [![Logo](/assets/icons/gh48.png)](https://github.com/mustahsin1)    [![Logo](/assets/icons/tb48.png)](https://public.tableau.com/app/profile/mustahsin.farhan/vizzes)
 [![Logo](/assets/icons/rgg48.png)](https://www.researchgate.net/profile/Md-Mustahsin-Chowdhury)    [![Logo](/assets/icons/kg48.png)](https://www.kaggle.com/mustahsinfarhan)    
@@ -12,7 +12,7 @@
 
 
 ## Work Experiences
-- **Embedded Software Engineer, BJIT Limited**  (June 2024 - Present)
+- **Software Engineer, BJIT Limited**  (June 2024 - Present)
 - **Freelance Data Analyst** (February 2023 - April 2024)
 - **Freelance Video Editor** (April 2020 - September 2021)
 
