@@ -2,7 +2,7 @@
 # Work Experiences
 <hr>
 
-## Embedded Software Engineer
+## Software Engineer
 **BJIT Limited (June 2024 - Present)**
 
 I specialize in designing and developing innovative embedded systems using RTOS and non-RTOS environments. Collaborating closely with cross-functional teams, I excel in implementing device drivers, protocols, and hardware abstractions. With a strong focus on quality and performance, I maintain and troubleshoot programs to deliver industry-leading embedded products.
