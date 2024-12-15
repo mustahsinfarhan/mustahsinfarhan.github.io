@@ -142,6 +142,6 @@ Explore my work and connect with me on the following platforms:
 - [LinkedIn](https://www.linkedin.com/in/mustahsin-farhan-chowdhury/)
 - [ResearchGate](https://www.researchgate.net/profile/Md-Mustahsin-Chowdhury)
 - [Kaggle](https://www.kaggle.com/mustahsinfarhan)
-- [GitHub](https://github.com/mustahsin1)
+- [GitHub](https://github.com/mustahsinfarhan)
 - [Tableau](https://public.tableau.com/app/profile/mustahsin.farhan/vizzes)
 
