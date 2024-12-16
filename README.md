@@ -1,5 +1,5 @@
 # Mustahsin Farhan
-## Embedded Software Engineer
+## Software Engineer
 
 [![Logo](/assets/icons/in48.png)](https://www.linkedin.com/in/mustahsin-farhan-chowdhury/)    [![Logo](/assets/icons/gh48.png)](https://github.com/mustahsinfarhan)    [![Logo](/assets/icons/tb48.png)](https://public.tableau.com/app/profile/mustahsin.farhan/vizzes)
 [![Logo](/assets/icons/rgg48.png)](https://www.researchgate.net/profile/Md-Mustahsin-Chowdhury)    [![Logo](/assets/icons/kg48.png)](https://www.kaggle.com/mustahsinfarhan)    
@@ -8,7 +8,7 @@
 
 ## Technical Skills
 - **Programming:**  C/C++  -  Python  -  Bash  -  R  -  SQL  -  Bare Metal
-- **Software:**     Visual Studio Code -  Spreadsheets  -  Git  -  MATLAB - Illustrator  -  Tableau  -  Premiere Pro  
+- **Software:**     Visual Studio  -  Spreadsheets  -  Git  -  MATLAB - Wireshark - Illustrator  -  Tableau  -  Premiere Pro  
 - **Platform:**     Google Cloud  -  Posit (Rstudio) Cloud - Arduino IDE - STM32 CubeIDE 
 
 
