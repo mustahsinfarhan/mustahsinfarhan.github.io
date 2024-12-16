@@ -89,7 +89,7 @@ Designed an affordable cloud-based patient monitoring system for remote monitori
   
 ## Projects
 - Case Study for Google Data Analytics Professional Certificate Capstone - How does a bike-share navigate speedy success (December 2023)
-- Project for Google IT Automation with Python Professional Certificate Capstone - Automatic output generation (December 2022)
+- Project for Google IT Automation with Python Professional Certificate Capstone - Automated product upload system for online fruit store (December 2022)
 - Featherweight Battle Bot (April 2022)
 - Human Rescue & Environment Monitoring Bot (October 2019)
 - Soccer Bot V.2.0 (September 2019)
