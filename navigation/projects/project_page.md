@@ -37,8 +37,8 @@ Completion Certificate [Here](https://coursera.org/verify/H4AU99SSRKF4)
 
 <br>
 
-### Project for Google IT Automation with Python Professional Certificate Capstone - Automatic output generation (December 2022)
-In this project, I developed a system that updates the catalog information with data provided by the fruit suppliers. When each supplier has new products for the store, the script automatically uploads the new products to the online store with the Images and descriptions uploaded separately using two different web endpoints. A report is generated automatically and sent via email to the suppliers. As this process is key to the business, I ran a script to constantly monitor the health of the system and send email alerts if any problem is detected. 
+### Project for Google IT Automation with Python Professional Certificate Capstone - Automated product upload system for online fruit store (December 2022)
+In this project, I developed a Python Script that updates the catalog information with data provided by the fruit suppliers. When each supplier has new products for the store, the script automatically uploads the new products to the online store with the Images and descriptions uploaded separately using two different web endpoints. A report is generated automatically and sent via email to the suppliers. As this process is key to the business, I ran a script to constantly monitor the health of the system and send email alerts if any problem is detected. 
 
 **Used Technologies:** Linux, Bash, Git and Python (Programming Language).
 
